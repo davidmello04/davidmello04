@@ -1,4 +1,4 @@
-### Olá, eu sou David, seja bem vindo!
+### Olá, me chamo David, Seja bem vindo!
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
