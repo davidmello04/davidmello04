@@ -1,7 +1,7 @@
 ### Olá, eu sou David! Seja bem vindo!
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 HTML, CSS, JavaScript e Phyton
 - 📫 Contate-me no email: davidbezerra10@hotmail.com
  
  <div align="center">
