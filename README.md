@@ -1,12 +1,19 @@
 ### Olá, eu sou David! Seja bem vindo!
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 🌱 HTML, CSS, JavaScript, EJS, NodeJS, MySQL e Phyton
 - 📫 Contate-me no email: davidbezerra10@hotmail.com
+- 🌱 #Minhas Skills:
+* Javascript
+* React
+* CSS
+* HTML
+* Mysql
+* NodeJS
+* Python
+* EJS
  
  <div align="center">
   <a href="https://github.com/davidmello04">
-   [![](https://github-readme-stats.vercel.app/api?username=davidmello04&theme=radical&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=davidmello04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -14,6 +21,7 @@
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="David-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
