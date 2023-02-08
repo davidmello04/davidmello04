@@ -2,7 +2,14 @@
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: davidbezerra10@hotmail.com
-- 🌱 #Minhas Skills:
+ 
+ <div align="center">
+  <a href="https://github.com/davidmello04">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=davidmello04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+ - 🌱 #Minhas Skills:
 * Javascript
 * React
 * CSS
@@ -12,18 +19,13 @@
 * Python
 * EJS
  
- <div align="center">
-  <a href="https://github.com/davidmello04">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=davidmello04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="David-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="David-EJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg">
+  <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
