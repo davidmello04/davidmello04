@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&langs_count=7&theme=radical&show_icons=true&"/>
 </div>
  
+ <br/>
+ 
  - 🌱 #Minhas Skills:
 * Javascript
 * React
