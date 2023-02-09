@@ -11,7 +11,7 @@
  
  <br/>
  
- - 🌱 ## Minhas Skills:
+ - 🌱 ### Minhas Skills:
 * Javascript
 * React
 * CSS
