@@ -15,13 +15,15 @@
  
 * Javascript
 * React
+* NextJS
+* Node.js
+* Vue.js
 * HTML
 * CSS
 * Boostrap
 * Bulma
 * Mysql
-* Node.js
-* Vue.js
+* MongoDB
 * Python
 * EJS
  
