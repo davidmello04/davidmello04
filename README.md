@@ -1,6 +1,6 @@
 ### Olá, eu sou David! Seja bem vindo!
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Concluindo Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: davidbezerra10@hotmail.com
  
 <div align="center">
@@ -25,7 +25,6 @@
 * Mysql
 * MongoDB
 * Python
-* EJS
  
  <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
