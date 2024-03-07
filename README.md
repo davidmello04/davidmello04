@@ -1,6 +1,7 @@
 ### Olá, eu sou David! Seja bem vindo!
 
-- 🔭 Concluindo Análise e Desenvolvimento de Sistemas
+- 🔭 Fomardo em Análise e Desenvolvimento de Sistemas
+- 🔭 Pós graduando em Arquitetura de Software
 - 📫 Contate-me no email: davidbezerra10@hotmail.com
  
 <div align="center">
@@ -13,18 +14,11 @@
  
 ### Minhas Skills:
  
-* Javascript
-* React
-* NextJS
-* Node.js
-* Vue.js
-* HTML
-* CSS
-* Boostrap
-* Bulma
-* Mysql
-* MongoDB
-* Python
+* Javascript / HTML / SCSS
+* React.js / React Native / Node.js / Next.js / Vue.js
+* MySQL / Python
+* Git e Github / Docker / Scrum
+* Figma
  
  <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
