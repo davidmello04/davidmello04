@@ -14,11 +14,20 @@
  
 ### Minhas Skills:
  
-* Javascript / HTML / SCSS
-* React.js / React Native / Node.js / Next.js / Vue.js / Adonis.js
-* MySQL / Python
-* Git e Github / Docker / Scrum
-* Figma
+🛠️ Linguagens de Programação & Tecnologias
+Frontend:
+JavaScript, TypeScript, HTML, SCSS
+React.js, React Native, Vue.js, Next.js
+Backend:
+Node.js, Adonis.js
+MySQL, Python
+🧰 Ferramentas de Desenvolvimento
+Git, GitHub
+Docker
+Figma
+🔄 Metodologias & Práticas de Trabalho
+Scrum
+Kanban
  
  <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
