@@ -26,7 +26,7 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="40" width="40" src="https://reactnative.dev/img/header_logo.svg">
+  <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
@@ -49,8 +49,8 @@
 
 #### Metodologias & Práticas de Trabalho:
 <div style="display: inline_block">
-  <img align="center" alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white">
-  <img align="center" alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=googlecloud&logoColor=white">
+  <img align="center" alt="Scrum" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="CI/CD" height="40" width="40" src="https://img.icons8.com/external-flat-juicy-fish/40/000000/external-continuous-integration-devops-flat-flat-juicy-fish.png">
 </div>
 
 </div>
