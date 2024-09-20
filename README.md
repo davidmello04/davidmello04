@@ -17,6 +17,8 @@
 
 ### 🛠️ **Minhas Skills:**
 
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
 #### Frontend:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -49,6 +51,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Scrum" height="40" width="40" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white">
   <img align="center" alt="CI/CD" height="40" width="40" src="https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=googlecloud&logoColor=white">
+</div>
+
 </div>
 
 ---
