@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Melo;I'm+26+years+old;Graduated+in+Systems+Analysis+and+Development;Postgraduate+in+Software+Architecture;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
----
-
-### 👨‍💻 About Me:
-- 🎓 **Graduated in Systems Analysis and Development**
-- 📚 **Postgraduate student in Software Architecture**
-- 📫 **Contact me at:** [davidbezerra10@hotmail.com](mailto:davidbezerra10@hotmail.com)
-
----
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davidmello04&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="David Melo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -22,8 +13,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=davidmello04&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+---
 
-### 🛠️ **Minhas Skills:**
+### 👨‍💻 About Me:
+- 🎓 **Graduated in Systems Analysis and Development**
+- 📚 **Postgraduate student in Software Architecture**
+- 📫 **Contact me at:** [davidbezerra10@hotmail.com](mailto:davidbezerra10@hotmail.com)
+
+---
+
+### 🛠️ **My Skills**
 
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,20 +41,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🧰 Ferramentas de Desenvolvimento:
+### 🧰 Development Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔄 Metodologias & Práticas de Trabalho:
+### 🔄 Methodologies & Work Practices:
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
-### 📱 **Vamos nos conectar!**
+### 📱 **Let's Connect!**
 
 <div>
   <a href="https://www.linkedin.com/in/david-melo-/" target="_blank">
