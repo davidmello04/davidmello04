@@ -1,6 +1,6 @@
 # 👋🏽 Olá! Eu sou o David, seja muito bem-vindo ao meu GitHub!
 
-- 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
+- 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
 - 📚 **Pós-graduando em Arquitetura de Software**
 - 📫 **Contate-me no email:** [davidbezerra10@hotmail.com](mailto:davidbezerra10@hotmail.com)
 
