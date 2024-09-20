@@ -1,5 +1,5 @@
 # 👋🏽 Olá! Eu sou o David, seja muito bem-vindo ao meu GitHub!
-### Sinta-se à vontade para explorar meus projetos e conhecer um pouco mais sobre meu trabalho. 😄
+**Sinta-se à vontade para explorar meus projetos e conhecer um pouco mais sobre meu trabalho.** 😄
 #
 
 - 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
