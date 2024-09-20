@@ -15,7 +15,7 @@
 ### Minhas Skills:
  
 * Javascript / HTML / SCSS
-* React.js / React Native / Node.js / Next.js / Vue.js
+* React.js / React Native / Node.js / Next.js / Vue.js / Adonis.js
 * MySQL / Python
 * Git e Github / Docker / Scrum
 * Figma
