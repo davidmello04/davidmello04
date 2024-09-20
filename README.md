@@ -22,53 +22,53 @@
 #### Frontend:
 <div style="display: inline_block; text-align: center;">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <p style="font-size: 12px">JavaScript</p>
+  <p style="font-size: 8px;">JavaScript</p>
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <p style="font-size: 12px">TypeScript</p>
+  <p style="font-size: 8px;">TypeScript</p>
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <p style="font-size: 12px">HTML</p>
+  <p style="font-size: 8px;">HTML</p>
   <img align="center" alt="SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <p style="font-size: 12px">SCSS</p>
+  <p style="font-size: 8px;">SCSS</p>
   <img align="center" alt="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <p style="font-size: 12px">React.js</p>
+  <p style="font-size: 8px;">React.js</p>
   <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <p style="font-size: 12px">React Native</p>
+  <p style="font-size: 8px;">React Native</p>
   <img align="center" alt="Vue.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <p style="font-size: 12px">Vue.js</p>
+  <p style="font-size: 8px;">Vue.js</p>
   <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <p style="font-size: 12px">Next.js</p>
+  <p style="font-size: 8px;">Next.js</p>
 </div>
 
 #### Backend:
 <div style="display: inline_block; text-align: center;">
   <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <p style="font-size: 12px">Node.js</p>
+  <p style="font-size: 8px;">Node.js</p>
   <img align="center" alt="Adonis.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
-  <p style="font-size: 12px">Adonis.js</p>
+  <p style="font-size: 8px;">Adonis.js</p>
   <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <p style="font-size: 12px">MySQL</p>
+  <p style="font-size: 8px;">MySQL</p>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <p style="font-size: 12px">Python</p>
+  <p style="font-size: 8px;">Python</p>
 </div>
 
 #### Ferramentas de Desenvolvimento:
 <div style="display: inline_block; text-align: center;">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <p style="font-size: 12px">Git</p>
+  <p style="font-size: 8px;">Git</p>
   <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <p style="font-size: 12px">GitHub</p>
+  <p style="font-size: 8px;">GitHub</p>
   <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <p style="font-size: 12px">Docker</p>
+  <p style="font-size: 8px;">Docker</p>
   <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <p style="font-size: 12px">Figma</p>
+  <p style="font-size: 8px;">Figma</p>
 </div>
 
 #### Metodologias & Práticas de Trabalho:
 <div style="display: inline_block; text-align: center;">
   <img align="center" alt="Scrum" src="https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white">
-  <p style="font-size: 12px">Scrum</p>
+  <p style="font-size: 8px;">Scrum</p>
   <img align="center" alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=googlecloud&logoColor=white">
-  <p style="font-size: 12px">CI/CD</p>
+  <p style="font-size: 8px;">CI/CD</p>
 </div>
 
 </div>
