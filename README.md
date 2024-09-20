@@ -14,20 +14,34 @@
  
 ### Minhas Skills:
  
-*🛠️ Linguagens de Programação & Tecnologias
-*Frontend:
-*JavaScript, TypeScript, HTML, SCSS
-*React.js, React Native, Vue.js, Next.js
-*Backend:
-*Node.js, Adonis.js
-*MySQL, Python
-*🧰 Ferramentas de Desenvolvimento
-*Git, GitHub
-*Docker
-*Figma
-*🔄 Metodologias & Práticas de Trabalho
-*Scrum
-*Kanban
+# 🛠️ Linguagens de Programação & Tecnologias
+
+### Frontend:
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+- ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+### Backend:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- ![Adonis.js](https://img.shields.io/badge/-Adonis.js-220052?style=flat&logo=adonisjs&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+# 🧰 Ferramentas de Desenvolvimento:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+# 🔄 Metodologias & Práticas de Trabalho:
+- ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
