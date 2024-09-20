@@ -1,4 +1,23 @@
-### 💻 Minhas Skills:
+# 👋 Olá, eu sou David! Seja bem-vindo!
+
+- 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
+- 📚 **Pós-graduando em Arquitetura de Software**
+- 📫 **Contate-me no email:** [davidbezerra10@hotmail.com](mailto:davidbezerra10@hotmail.com)
+
+---
+
+<div align="center">
+  <a href="https://github.com/davidmello04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidmello04&theme=radical&show_icons=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&langs_count=7&theme=radical&show_icons=true"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ **Minhas Skills:**
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
 #### Frontend:
 <div style="display: inline_block">
@@ -34,11 +53,13 @@
   <img align="center" alt="CI/CD" height="40" width="40" src="https://img.shields.io/badge/-CI/CD-4285F4?style=flat&logo=googlecloud&logoColor=white">
 </div>
 
+</div>
+
 ---
 
-### 🌐 Minhas Redes:
+### 📱 **Vamos nos conectar!**
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/david-melo-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
