@@ -1,59 +1,82 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">Olá, eu sou David Melo 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Melo;I'm+26+years+old;Graduated+in+Systems+Analysis+and+Development;Postgraduate+in+Software+Architecture;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<p align="center">
+  Desenvolvedor Full-Stack com foco em JavaScript e TypeScript
+</p>
 
----
-
-### 👨‍💻 About Me:
-- 🎓 **Graduated in Systems Analysis and Development**
-- 📚 **Postgraduate student in Software Architecture**
-- 📫 **Contact me at:** [davidbezerra10@hotmail.com](mailto:davidbezerra10@hotmail.com)
-
----
-
-### 🛠️ **My Skills**
-
-### Frontend:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Adonis.js](https://img.shields.io/badge/Adonis.js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Development Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🔄 Methodologies & Work Practices:
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
-### 📱 **Let's Connect!**
-<div>
-  <a href="https://www.linkedin.com/in/david-melo-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-melo-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/qr/RFUMO6UNIAHXD1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  <a href="mailto:davidbezerra10@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-</div>
+</p>
 
----
+## Sobre mim
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidmello04&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Sou desenvolvedor Full-Stack e pós-graduado em Arquitetura de Software, com experiência no desenvolvimento e na evolução de aplicações web e mobile.
+
+Minha atuação inclui construção de funcionalidades, integração entre frontend e backend, melhorias de performance, correção de vulnerabilidades e modernização de projetos legados — incluindo migração de Vue 2 para Vue 3 e atualização de aplicações React Native.
+
+Atualmente, concentro meus estudos e projetos em arquitetura, qualidade de código, testes, Docker, AWS e desenvolvimento de produtos preparados para ambientes de produção.
+
+## Tecnologias principais
+
+### Frontend e mobile
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend, dados e infraestrutura
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+## Experiência aplicada
+
+- desenvolvimento e manutenção de aplicações web com Vue.js e React;
+- desenvolvimento mobile com React Native;
+- APIs e regras de negócio com Node.js, NestJS e AdonisJS;
+- integração com bancos de dados relacionais e não relacionais;
+- modernização de aplicações legadas e atualização de dependências;
+- melhorias de performance, segurança e experiência do usuário;
+- uso de Git, Docker, AWS e práticas ágeis no fluxo de desenvolvimento.
+
+## Projetos em destaque
+
+### Nexus
+
+Sistema de gestão empresarial full-stack projetado com foco em evolução para uso real. O projeto reúne autenticação, regras de negócio, módulos administrativos e uma arquitetura preparada para novas funcionalidades. A documentação pública está em preparação.
+
+### Florê
+
+Produto web desenvolvido com React para uma experiência de compra responsiva. Por envolver código privado, será apresentado por meio de um estudo de caso com contexto, decisões técnicas, funcionalidades e resultados, sem exposição do código-fonte.
+
+### Pokédex
+
+Aplicação em Vue.js 3 que consome a PokéAPI e permite pesquisar e visualizar dados dos 151 Pokémon da primeira geração.
+
+[Ver repositório](https://github.com/davidmello04/pokedex) · [Ver demonstração](https://glittery-narwhal-098581.netlify.app/)
+
+## Formação
+
+- Pós-graduação em Arquitetura de Software — concluída
+- Graduação em Análise e Desenvolvimento de Sistemas
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/david-melo-/)
+- [E-mail](mailto:davidbezerra10@hotmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer" alt="">
