@@ -44,7 +44,7 @@ Também possuo experiência com **AdonisJS, React Native, Vuetify, Tailwind CSS,
 
 ## 🎓 Formação
 
-- **Pós-graduação em Arquitetura de Software** — concluída
+- **Pós-graduação em Arquitetura de Software** — Univitória - Concluída
 - **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul
 
 ---
