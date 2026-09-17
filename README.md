@@ -1,82 +1,86 @@
-<h1 align="center">Olá, eu sou David Melo 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:2563EB&height=170&section=header&text=David%20Melo&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architecture&descAlignY=58&animation=fadeIn" alt="David Melo — Full-Stack Developer" />
 
 <p align="center">
-  Desenvolvedor Full-Stack com foco em JavaScript e TypeScript
+  Desenvolvedor Full-Stack com atuação em aplicações web e mobile, modernização de sistemas e construção de produtos preparados para evoluir.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-melo-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:davidbezerra10@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://wa.me/qr/RFUMO6UNIAHXD1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ## Sobre mim
 
-Sou desenvolvedor Full-Stack e pós-graduado em Arquitetura de Software, com experiência no desenvolvimento e na evolução de aplicações web e mobile.
+Sou Desenvolvedor Full-Stack, graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software. Atuo no desenvolvimento e na evolução de aplicações web e mobile, trabalhando desde a interface e a experiência do usuário até APIs, regras de negócio, bancos de dados, infraestrutura e deploy.
 
-Minha atuação inclui construção de funcionalidades, integração entre frontend e backend, melhorias de performance, correção de vulnerabilidades e modernização de projetos legados — incluindo migração de Vue 2 para Vue 3 e atualização de aplicações React Native.
+Tenho experiência com Vue.js, React, React Native, Node.js, AdonisJS e TypeScript, além de atuação em melhorias de performance, correção de vulnerabilidades, modernização de sistemas legados e atualização de aplicações — incluindo migração de Vue 2 para Vue 3 e evolução de projetos React Native.
 
-Atualmente, concentro meus estudos e projetos em arquitetura, qualidade de código, testes, Docker, AWS e desenvolvimento de produtos preparados para ambientes de produção.
-
-## Tecnologias principais
-
-### Frontend e mobile
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend, dados e infraestrutura
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-## Experiência aplicada
-
-- desenvolvimento e manutenção de aplicações web com Vue.js e React;
-- desenvolvimento mobile com React Native;
-- APIs e regras de negócio com Node.js, NestJS e AdonisJS;
-- integração com bancos de dados relacionais e não relacionais;
-- modernização de aplicações legadas e atualização de dependências;
-- melhorias de performance, segurança e experiência do usuário;
-- uso de Git, Docker, AWS e práticas ágeis no fluxo de desenvolvimento.
-
-## Projetos em destaque
-
-### Nexus
-
-Sistema de gestão empresarial full-stack projetado com foco em evolução para uso real. O projeto reúne autenticação, regras de negócio, módulos administrativos e uma arquitetura preparada para novas funcionalidades. A documentação pública está em preparação.
-
-### Florê
-
-Produto web desenvolvido com React para uma experiência de compra responsiva. Por envolver código privado, será apresentado por meio de um estudo de caso com contexto, decisões técnicas, funcionalidades e resultados, sem exposição do código-fonte.
-
-### Pokédex
-
-Aplicação em Vue.js 3 que consome a PokéAPI e permite pesquisar e visualizar dados dos 151 Pokémon da primeira geração.
-
-[Ver repositório](https://github.com/davidmello04/pokedex) · [Ver demonstração](https://glittery-narwhal-098581.netlify.app/)
+Busco construir soluções organizadas, seguras e sustentáveis, aplicando princípios de arquitetura de software, qualidade de código e decisões técnicas alinhadas às necessidades reais do produto.
 
 ## Formação
 
-- Pós-graduação em Arquitetura de Software — concluída
-- Graduação em Análise e Desenvolvimento de Sistemas
+* **Pós-graduação em Arquitetura de Software** — concluída
+* **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac
+
+## Experiência aplicada
+
+* desenvolvimento e manutenção de aplicações web com Vue.js e React;
+* desenvolvimento de aplicações mobile com React Native;
+* construção de APIs e regras de negócio com Node.js, NestJS e AdonisJS;
+* modelagem e integração com bancos de dados relacionais e não relacionais;
+* modernização de aplicações legadas e migração de Vue 2 para Vue 3;
+* atualização de aplicações React Native e gerenciamento de dependências;
+* análise e correção de vulnerabilidades;
+* identificação e implementação de melhorias de performance;
+* deploy, infraestrutura e serviços em AWS;
+* Docker, Git, CI/CD e práticas ágeis de desenvolvimento.
+
+## Projetos em destaque
+
+| Projeto                   | Descrição                                                                                                                                                                                                                                                        | Tecnologias                                                   |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Nexus**                 | Sistema de gestão empresarial full-stack, desenvolvido com foco em arquitetura modular, autenticação, regras de negócio e evolução para uso em produção.                                                                                                         | TypeScript, Node.js, NestJS, React, banco de dados relacional |
+| **Florê T-shirt Manager** | ERP em produção para gestão de produtos, estoque, pedidos, clientes, fornecedores e financeiro, com autenticação, deploy e estratégia de backups. Código privado; estudo de caso público em preparação.                                                          | React, TypeScript, NestJS, Prisma, SQLite, Docker, Railway    |
+| **ScrapFlow**             | Evolução de um sistema de gestão de compras de materiais recicláveis, com pesagem, cálculo de valores, histórico de operações e emissão de comprovantes em PDF.                                                                                                  | React Native, Node.js, TypeScript, banco de dados, PDF        |
+| **Medbem**                | Plataforma full-stack para gerenciamento de pacientes, profissionais e consultas médicas.                                                                                                                                                                        | Vue 3, Vuetify, AdonisJS, TypeScript, PostgreSQL              |
+| **Pokédex**               | Aplicação responsiva para consulta dos 151 Pokémon da primeira geração, com pesquisa, informações detalhadas e integração com API externa. [Repositório](https://github.com/davidmello04/pokedex) · [Demonstração](https://glittery-narwhal-098581.netlify.app/) | Vue 3, Vite, Axios, Bulma                                     |
+
+## Tecnologias
+
+### Stack principal
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,nestjs,html,css,mysql,postgres,sqlite,prisma,docker,aws,git&perline=8" alt="Tecnologias principais" />
+</p>
+
+### Conhecimentos complementares
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,nextjs,mongodb,express,sass,figma,githubactions&perline=8" alt="Conhecimentos complementares" />
+</p>
+
+Também possuo experiência com **AdonisJS, React Native, Vuetify, Tailwind CSS, Railway, Nginx, PM2, Scrum e Kanban**.
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidmello04&show_icons=true&hide_border=true&theme=transparent&title_color=0891B2&icon_color=2563EB&text_color=6B7280" alt="Estatísticas do GitHub de David Melo" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmello04&layout=compact&hide_border=true&theme=transparent&title_color=0891B2&text_color=6B7280" alt="Linguagens mais utilizadas" />
+</p>
+
+> As estatísticas representam apenas os repositórios públicos e não incluem projetos privados ou contribuições profissionais realizadas em outras organizações.
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/david-melo-/)
-- [E-mail](mailto:davidbezerra10@hotmail.com)
+* [LinkedIn](https://www.linkedin.com/in/david-melo-/)
+* [E-mail](mailto:davidbezerra10@hotmail.com)
+* [WhatsApp](https://wa.me/qr/RFUMO6UNIAHXD1)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:2563EB&height=110&section=footer" alt="" />
