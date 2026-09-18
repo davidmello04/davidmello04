@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:2563EB&height=170&section=header&text=David%20Melo&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architecture&descAlignY=58&animation=fadeIn" alt="David Melo — Full-Stack Developer" />
-
 <p align="center">
   Desenvolvedor Full-Stack com atuação em aplicações web e mobile, modernização de sistemas e construção de produtos preparados para evoluir.
 </p>
